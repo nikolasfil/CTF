@@ -1,0 +1,16 @@
+Forensic CTF Challenges 
+
+These are some CTFs in the Forensics Category.
+The flag format is flagN{}, where N is a number.
+There are a total of 5 flags, and each challenge comes with a description.
+
+For your convenience I suggest solving them with a linux terminal , 
+wether that is wsl , virtual box or Main linux machine.
+
+Solving them on windows is possible but a bit more difficult .
+
+Finding online tools is higly encouraged.
+
+Have fun !!
+
+Klaus
