@@ -1,0 +1,14 @@
+Blind Shell
+
+Someone left an unguarded shell rest it's ear upon a wall.
+It can hear and excecute your demands but cannot answer you.
+Can you find the flag ?
+
+
+Either build the container with
+./docker_create_image.sh
+and then ./run_docker_no_response.sh
+
+Or just run ./no_response.py
+
+Disclaimer: This challenge is strictly to be run on a linux Machine!!!

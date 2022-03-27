@@ -1,0 +1,15 @@
+Break out
+The same brilliant employee that made the idle of the last challenge,
+let the programm run on a very sensitive folder of the server .
+Can you find anything important ?
+
+To run : 
+
+On a Linux Machine 
+Either build the container with
+./docker_create_image.sh 
+and then ./run_docker_level5.sh
+
+On any Machine 
+Or just run ./python_shell_level_5.py
+

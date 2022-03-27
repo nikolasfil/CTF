@@ -1,0 +1,4 @@
+#sudo nc -lnvp 500 -e ./python_crypted_shell_level_1.py
+nc -lnvp 500 -e ./python_crypted_shell_level_1.py
+
+#print(flag)

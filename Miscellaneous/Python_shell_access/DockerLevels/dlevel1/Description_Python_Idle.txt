@@ -1,0 +1,18 @@
+Python idle
+
+What a brilliant idea an emploee had !!
+Make a programm to run python commands like an idle and leave it open on the system!
+Of course he thought it was a good idea to leave vital information inside the code
+
+
+To run :
+
+On a linux Machine 
+Either build the container with
+./docker_create_image.sh
+and then ./run_docker_level1.sh
+
+
+On Any Machine
+Or just run ./python_shell_level_1.py
+
